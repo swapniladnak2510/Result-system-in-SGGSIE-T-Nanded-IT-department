@@ -52,7 +52,7 @@
             </a>
         <ul class="right hide-on-med-and-down">
           
-          <li><a href="testing.php">SGPA calculator</a></li>
+          <li><a href="testing.php">Check result</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#contacts">Contacts</a></li>
           <li><a href="#events">Events</a></li>
@@ -61,7 +61,7 @@
           </nav>
         <ul class="sidenav" id="mobile">
           
-            <li><a href="testing.php">SGPA calculator</a></li>
+            <li><a href="testing.php">Check result</a></li>
             <li><a href="#about">About</a></li>
           <li><a href="#contacts">Contacts</a></li>
           <li><a href="#events">Events</a></li>
